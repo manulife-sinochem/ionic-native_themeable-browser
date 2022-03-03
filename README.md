@@ -1,2 +1,7 @@
-# ionic-native_themeable-browser 
-#123
+
+# Themeable Browser
+修改了@ionic-native/themeable-browser以支持hide方法
+   
+
+
+
